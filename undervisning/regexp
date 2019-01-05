@@ -1,0 +1,10 @@
+#########################
+## Regular expressions ##
+#########################
+
+^     # beginning of line
+$     # end of line
+\n    # newline
+\t    # tabulator
+.     # any character
+[a-z] # all small characters
